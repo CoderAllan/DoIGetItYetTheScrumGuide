@@ -1,0 +1,35 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DoIGetItTheScrumGuide/bin/Debug
+/DoIGetItTheScrumGuide/bin/Debug/DoIGetItTheScrumGuide.exe
+/DoIGetItTheScrumGuide/bin/Debug/DoIGetItTheScrumGuide.exe.config
+/DoIGetItTheScrumGuide/bin/Debug/DoIGetItTheScrumGuide.pdb
+/DoIGetItTheScrumGuide/bin/Debug/DoIGetItTheScrumGuide.vshost.exe
+/DoIGetItTheScrumGuide/bin/Debug/DoIGetItTheScrumGuide.vshost.exe.config
+/DoIGetItTheScrumGuide/obj
+/TestResults/1ed00800-85d4-4ce5-9e96-34f7d58c9317
+/TestResults/1ed00800-85d4-4ce5-9e96-34f7d58c9317/Allan_ALLANHJEMME 2015-08-15 14_09_05.coverage
+/TestResults/9de7bad5-c626-4938-9e1c-8299edb81b43
+/TestResults/9de7bad5-c626-4938-9e1c-8299edb81b43/Allan_ALLANHJEMME 2015-08-15 14_22_38.coverage
+/TestResults/a91eadd5-d83a-43e1-8b11-5462d9f46281
+/TestResults/a91eadd5-d83a-43e1-8b11-5462d9f46281/Allan_ALLANHJEMME 2015-08-15 13_03_46.coverage
+/TestResults/a9fffe7e-101c-4d2a-a2fd-45d0b0f7423c
+/TestResults/a9fffe7e-101c-4d2a-a2fd-45d0b0f7423c/Allan_ALLANHJEMME 2015-08-15 13_24_06.coverage
+/TestResults/cdb5ac7a-f422-4ce6-a3ff-d899688f38eb
+/TestResults/cdb5ac7a-f422-4ce6-a3ff-d899688f38eb/Allan_ALLANHJEMME 2015-08-15 09_51_17.coverage
+/TestResults/f2299ce4-83f8-458b-b5d1-c42549e2c809
+/TestResults/f2299ce4-83f8-458b-b5d1-c42549e2c809/Allan_ALLANHJEMME 2015-08-15 14_18_32.coverage
+/Tests/bin/Debug/Tests.pdb
+/Tests/obj/Debug
+/Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Tests/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+/Tests/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/Tests/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+/Tests/obj/Debug/Tests.csproj.FileListAbsolute.txt
+/Tests/obj/Debug/Tests.csprojResolveAssemblyReference.cache
+/Tests/obj/Debug/Tests.dll
+/Tests/obj/Debug/Tests.pdb
+/Tests/bin/Debug
+*.suo
