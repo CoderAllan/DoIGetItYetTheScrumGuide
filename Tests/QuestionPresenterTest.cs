@@ -12,12 +12,11 @@
         {
             // Arrange
             var view = new MockMainForm();
-            
+
             // Act
             var presenter = new QuestionPresenter(view);
 
             // Assert
-            Assert.IsNotNull(presenter);
             Assert.IsFalse(view.NextVisible);
             Assert.IsFalse(view.QuestionLabelVisible);
             Assert.IsFalse(view.QuestionTextVisible);
@@ -41,9 +40,8 @@
             view.FireStartClicked();
 
             // Assert
-            Assert.IsNotNull(presenter);
-            Assert.IsTrue(view.NextVisible);
             Assert.IsTrue(view.QuestionLabelVisible);
+            Assert.IsTrue(view.NextVisible);
             Assert.IsTrue(view.QuestionTextVisible);
             Assert.IsTrue(view.ChoicesLabelVisible);
             Assert.IsFalse(view.StartVisible);
@@ -65,7 +63,6 @@
             view.FireNextQuestionClicked();
 
             // Assert
-            Assert.IsNotNull(presenter);
             Assert.IsTrue(view.NextVisible);
             Assert.IsTrue(view.QuestionLabelVisible);
             Assert.IsTrue(view.QuestionTextVisible);
