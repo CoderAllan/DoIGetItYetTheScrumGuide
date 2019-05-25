@@ -1,4 +1,5 @@
-# DoIGetItYetTheScrumGuide
+# DoIGetItYetTheScrumGuide ![GitHub top language](https://img.shields.io/github/languages/top/CoderAllan/DoIGetItYetTheScrumGuide.svg) ![GitHub](https://img.shields.io/github/license/CoderAllan/DoIGetItYetTheScrumGuide.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/CoderAllan/DoIGetItYetTheScrumGuide.svg)
+
 Training tool for the PSM I certification.
 
 I made this tool when i was studying for the The Professional Scrum Master level I (PSM I).
