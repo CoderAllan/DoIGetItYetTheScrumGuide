@@ -33,3 +33,5 @@
 /Tests/obj/Debug/Tests.pdb
 /Tests/bin/Debug
 *.suo
+/Tests/obj
+/.vs

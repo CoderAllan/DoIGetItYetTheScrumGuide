@@ -14,7 +14,7 @@
         bool QuestionTextVisible { get; set; }
         int QuestionTextWidth { get; set; }
         string QuestionText { get; set; }
-        //Control.ControlCollection FormControls { get; }
+        Control.ControlCollection FormControls { get; }
 
         void AddChoiceButtons(List<RadioButton> choiceButtons);
         void RemoveChoiceButtons(List<RadioButton> choiceButtons);
